@@ -41,4 +41,4 @@ algorithms.
 ## What are contained in MEFB
 
 ### Dataset
-![](https://github.com/xingchenzhang/MEFB/blob/master/dataset.jpg)
+![](https://github.com/xingchenzhang/MEFB/dataset.jpg)
